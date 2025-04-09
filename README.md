@@ -30,7 +30,7 @@ From the root folder of the project, execute:
 python src/main.py
 ```
 
-## 📦 Output
+## Output
 
 `src/output.gpkg`: GeoPackage file with polygons and their average values.
 
