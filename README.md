@@ -4,7 +4,7 @@ This project gets the points from a GeoPackage file and converts them into a map
 Each polygon covers 12 meters along the path of the points.  
 The code calculates the average values inside each polygon and saves the result as a new .gpkg file and a map image.
 
-## 🧰 Requirements
+## Requirements
 
 - **Python version:** 3.11.4
 
@@ -22,7 +22,7 @@ The project uses the following libraries:
 - pandas
 - contextily
 
-## ▶️ Running the Script
+## Running the Script
 
 From the root folder of the project, execute:
 
